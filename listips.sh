@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "d2dldCAtTyAtIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS83Yy9mYWtlZmlsdGVyL3JlZnMvaGVhZHMvbWFpbi9qc29uL2RhdGEuanNvbiB8IGVncmVwIC1vICdcYlthLXpBLVowLTkuLV0rXC5bYS16QS1aXXsyLH1cYicK" | gzip -cfd |base64 -d| sh
